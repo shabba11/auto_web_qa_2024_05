@@ -4,6 +4,6 @@ def calculate_average(nums):
     return total / count
 
 
-nums = [10, 15, 20]
-result = calculate_average(nums)
+numbers = [10, 15, 20]
+result = calculate_average(nums=numbers)
 print("The average is:", result)
